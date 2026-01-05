@@ -97,6 +97,6 @@ San Juan, Argentina
   <em>Tecnología aplicada a la industria y la energía.</em>
 </p>
 <p align="center">
-  <a href="https://disei.com.ar" target="_blank">Sitio web de DISEI</a> ·
-  <a href="https://conelci.com.ar" target="_blank">Sitio web de CONELCI</a>
+  <a href="https://disei.com.ar" target="_blank">Sitio web de DISEI</a>
 </p>
+
